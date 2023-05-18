@@ -22,6 +22,7 @@ Console.WriteLine($"Ako si {nameko} at miss ko na si {namegf}.");
 Console.WriteLine($"The Name {nameko} has {nameko.Length} Letters");
 Console.WriteLine($"The Name {namegf} has {namegf.Length} Letters");
 
+Console.WriteLine("supot si aj");
 
 
 
