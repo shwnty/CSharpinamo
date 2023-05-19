@@ -49,6 +49,21 @@ Console.WriteLine($"{name.ToUpper()}");
 
 Console.WriteLine($"{name.ToLower()}");
 
+//program 10
+
+var sentence = "itlog ng manok ay bilog";
+Console.WriteLine(sentence.Contains("bilog"));
+Console.WriteLine(sentence.Contains("menek"));
+
+//program 11
+Console.WriteLine(sentence.StartsWith("itlog"));
+Console.WriteLine(sentence.StartsWith("logit"));
+
+//program 12
+Console.WriteLine(sentence.EndsWith("bilog"));
+Console.WriteLine(sentence.EndsWith("logbi"));
+
+
 
 
 
