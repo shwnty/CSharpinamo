@@ -24,5 +24,32 @@ Console.WriteLine($"The Name {namegf} has {namegf.Length} Letters");
 
 Console.WriteLine("supot si aj");
 
+//program 7
+String myString = "    Halaman    ";
+Console.WriteLine($"[{myString}]");
+
+String putol = myString.TrimStart();
+Console.WriteLine($"[{putol}]");
+
+putol = myString.TrimEnd();
+Console.WriteLine($"[{putol}]");
+
+putol = myString.Trim();
+Console.WriteLine($"[{putol}]");
+
+//program 8
+String word = "supot si dominic";
+Console.WriteLine($"{word}");
+
+String halaman = word.Replace("dominic", "aj");
+Console.WriteLine($"{halaman}");
+
+//program 9
+Console.WriteLine($"{name.ToUpper()}");
+
+Console.WriteLine($"{name.ToLower()}");
+
+
+
 
 
