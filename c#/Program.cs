@@ -63,6 +63,36 @@ Console.WriteLine(sentence.StartsWith("logit"));
 Console.WriteLine(sentence.EndsWith("bilog"));
 Console.WriteLine(sentence.EndsWith("logbi"));
 
+//program 13
+int a = 7;
+int b = 5;
+
+//addition
+int add = a + b;
+Console.WriteLine($"{add}");
+
+//subtraction
+int sub = a - b;
+Console.WriteLine($"{sub}");
+
+//multiplication
+int multi = a * b;
+Console.WriteLine($"{multi}");
+
+//division
+int divA = 72;
+int divB = 2;
+int div = divA / divB;
+Console.WriteLine($"{div}");
+
+// modulus na putangina kung ano ano ren
+decimal any = (a + b) * (a - b) + .5m; 
+Console.WriteLine($"{any}");
+
+
+
+
+
 
 
 
