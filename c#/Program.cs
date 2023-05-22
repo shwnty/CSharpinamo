@@ -89,6 +89,40 @@ Console.WriteLine($"{div}");
 decimal any = (a + b) * (a - b) + .5m; 
 Console.WriteLine($"{any}");
 
+//min max value
+int min = int.MinValue;
+int max = int.MaxValue;
+Console.WriteLine($"{min}");
+Console.WriteLine($"{max}");
+
+double minn = double.MinValue;
+double maxx = double.MaxValue;
+Console.WriteLine($"{minn}");
+Console.WriteLine($"{maxx}");
+
+int y = -1;
+int x = -2;
+int z = 5;
+int maxnum = int.MinValue;
+
+if(maxnum < y){
+    maxnum = y;
+}
+
+if(maxnum < x){
+    maxnum = x;
+}
+if(maxnum < z){
+    maxnum = z;
+}
+
+Console.WriteLine($"The Maximum Value is {minnum}");
+
+ 
+ 
+
+
+
 
 
 
