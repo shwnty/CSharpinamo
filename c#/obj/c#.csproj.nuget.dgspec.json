@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shawn\\development\\CSharpinamo\\c#\\c#.csproj": {}
+    "C:\\Users\\Shawn\\Development\\Csharpinamo\\c#\\c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shawn\\development\\CSharpinamo\\c#\\c#.csproj": {
+    "C:\\Users\\Shawn\\Development\\Csharpinamo\\c#\\c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shawn\\development\\CSharpinamo\\c#\\c#.csproj",
+        "projectUniqueName": "C:\\Users\\Shawn\\Development\\Csharpinamo\\c#\\c#.csproj",
         "projectName": "c#",
-        "projectPath": "C:\\Users\\Shawn\\development\\CSharpinamo\\c#\\c#.csproj",
+        "projectPath": "C:\\Users\\Shawn\\Development\\Csharpinamo\\c#\\c#.csproj",
         "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shawn\\development\\CSharpinamo\\c#\\obj\\",
+        "outputPath": "C:\\Users\\Shawn\\Development\\Csharpinamo\\c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config"

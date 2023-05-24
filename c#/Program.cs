@@ -116,7 +116,54 @@ if(maxnum < z){
     maxnum = z;
 }
 
-Console.WriteLine($"The Maximum Value is {minnum}");
+Console.WriteLine($"The Maximum Value is {maxnum}");
+
+//program 14, showcase the difference of double and decimal
+
+//Adition
+Double ad = 1.012 + 2.23;
+Decimal ads = 1.012M + 2.23M;
+
+Console.WriteLine($"{ad}");
+Console.WriteLine($"{ads}");
+
+//subtraction
+Double subd = 4.02 + 3.11;
+Decimal subdec = 4.02M + 3.11M;
+
+Console.WriteLine($"{subd}");
+Console.WriteLine($"{subdec}");
+
+//multiplication
+Double multD = 1.03 * 2.04;
+Decimal multDec = 1.03M * 2.04M;
+
+Console.WriteLine($"{multD}");
+Console.WriteLine($"{multDec}");
+
+//Division
+double aa = 6;
+double bb = 7;
+
+decimal aaa = 6M;
+decimal bbb = 7M;
+
+Double Dres = aa / bb;
+Decimal DecRes = aaa / bbb;
+
+Console.WriteLine($"{Dres}");
+Console.WriteLine($"{DecRes}");
+
+//Modulus
+Double ModD = 5.0 %2;
+Decimal ModDec = 5.0M %2M;
+
+Console.WriteLine($"{ModD}");
+Console.WriteLine($"{ModDec}");
+
+
+
+
 
  
  
