@@ -1,0 +1,15 @@
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\bin\Debug\net7.0\c#branches.exe
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\bin\Debug\net7.0\c#branches.deps.json
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\bin\Debug\net7.0\c#branches.runtimeconfig.json
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\bin\Debug\net7.0\c#branches.dll
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\bin\Debug\net7.0\c#branches.pdb
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.csproj.AssemblyReference.cache
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.AssemblyInfoInputs.cache
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.AssemblyInfo.cs
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.dll
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\refint\c#branches.dll
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.pdb
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\c#branches.genruntimeconfig.cache
+C:\Users\Shawn\development\csharpinamo\csBranches\c#branches\obj\Debug\net7.0\ref\c#branches.dll
