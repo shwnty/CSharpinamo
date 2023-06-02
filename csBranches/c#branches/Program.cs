@@ -29,3 +29,17 @@ if((a + b < 10) || (a + b == c)){
 }else{
      Console.WriteLine("ulol hahahah mali");
      }
+    
+// Console.WriteLine(args[])
+int aa = 10;
+int bb = 10;
+int cc = 1;
+
+if(aa + bb == 20 && aa + bb < cc){
+    Console.WriteLine("ekwal lang");
+}else{
+    Console.WriteLine("Putanginamo");
+}
+
+
+
