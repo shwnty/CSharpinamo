@@ -1,0 +1,15 @@
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.csproj.AssemblyReference.cache
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.AssemblyInfoInputs.cache
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.AssemblyInfo.cs
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\bin\Debug\net7.0\CsharpLoops.exe
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\bin\Debug\net7.0\CsharpLoops.deps.json
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\bin\Debug\net7.0\CsharpLoops.runtimeconfig.json
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\bin\Debug\net7.0\CsharpLoops.dll
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\bin\Debug\net7.0\CsharpLoops.pdb
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.dll
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\refint\CsharpLoops.dll
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.pdb
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\CsharpLoops.genruntimeconfig.cache
+C:\Users\Shawn\development\Csharpinamo\CsharpLoops\obj\Debug\net7.0\ref\CsharpLoops.dll
