@@ -1,0 +1,15 @@
+C:\Users\Shawn\development\csharpinamo\addinglist\bin\Debug\net7.0\addding.exe
+C:\Users\Shawn\development\csharpinamo\addinglist\bin\Debug\net7.0\addding.deps.json
+C:\Users\Shawn\development\csharpinamo\addinglist\bin\Debug\net7.0\addding.runtimeconfig.json
+C:\Users\Shawn\development\csharpinamo\addinglist\bin\Debug\net7.0\addding.dll
+C:\Users\Shawn\development\csharpinamo\addinglist\bin\Debug\net7.0\addding.pdb
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.csproj.AssemblyReference.cache
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.AssemblyInfoInputs.cache
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.AssemblyInfo.cs
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.dll
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\refint\addding.dll
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.pdb
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\addding.genruntimeconfig.cache
+C:\Users\Shawn\development\csharpinamo\addinglist\obj\Debug\net7.0\ref\addding.dll

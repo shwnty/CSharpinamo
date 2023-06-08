@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shawn\\development\\Csharpinamo\\csBranches\\C#branches\\c#branches.csproj": {}
+    "C:\\Users\\Shawn\\development\\csharpinamo\\addinglist\\addding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shawn\\development\\Csharpinamo\\csBranches\\C#branches\\c#branches.csproj": {
+    "C:\\Users\\Shawn\\development\\csharpinamo\\addinglist\\addding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shawn\\development\\Csharpinamo\\csBranches\\C#branches\\c#branches.csproj",
-        "projectName": "c#branches",
-        "projectPath": "C:\\Users\\Shawn\\development\\Csharpinamo\\csBranches\\C#branches\\c#branches.csproj",
+        "projectUniqueName": "C:\\Users\\Shawn\\development\\csharpinamo\\addinglist\\addding.csproj",
+        "projectName": "addding",
+        "projectPath": "C:\\Users\\Shawn\\development\\csharpinamo\\addinglist\\addding.csproj",
         "packagesPath": "C:\\Users\\Shawn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shawn\\development\\Csharpinamo\\csBranches\\C#branches\\obj\\",
+        "outputPath": "C:\\Users\\Shawn\\development\\csharpinamo\\addinglist\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shawn\\AppData\\Roaming\\NuGet\\NuGet.Config"

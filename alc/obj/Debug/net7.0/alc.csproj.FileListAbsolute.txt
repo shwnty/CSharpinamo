@@ -1,0 +1,15 @@
+C:\Users\Shawn\development\csharpinamo\alc\bin\Debug\net7.0\alc.exe
+C:\Users\Shawn\development\csharpinamo\alc\bin\Debug\net7.0\alc.deps.json
+C:\Users\Shawn\development\csharpinamo\alc\bin\Debug\net7.0\alc.runtimeconfig.json
+C:\Users\Shawn\development\csharpinamo\alc\bin\Debug\net7.0\alc.dll
+C:\Users\Shawn\development\csharpinamo\alc\bin\Debug\net7.0\alc.pdb
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.csproj.AssemblyReference.cache
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.AssemblyInfoInputs.cache
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.AssemblyInfo.cs
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.dll
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\refint\alc.dll
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.pdb
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\alc.genruntimeconfig.cache
+C:\Users\Shawn\development\csharpinamo\alc\obj\Debug\net7.0\ref\alc.dll

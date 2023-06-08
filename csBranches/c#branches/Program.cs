@@ -42,4 +42,8 @@ if(aa + bb == 20 && aa + bb < cc){
 }
 
 
-
+for(int  i = 1; i <= 20; i++){
+    if(i % 3 == 0){
+        Console.WriteLine($"The number {i} is divisible by 3");
+    }
+}
